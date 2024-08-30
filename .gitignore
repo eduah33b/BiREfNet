@@ -140,3 +140,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+birf
+outputs
+images_todo

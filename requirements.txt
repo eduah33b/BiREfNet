@@ -13,3 +13,6 @@ tqdm
 prettytable
 
 huggingface_hub
+matplotlib
+transformers
+ipython
